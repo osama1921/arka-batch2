@@ -37,3 +37,5 @@
    ![Delete](/enam/image/del.png)
    > * Alert
    ![Alert delete](/enam/image/alert.png)
+- untuk Enam C 
+  * untuk menjalankannya harus import database terlebih dahulu dengan nama database karyawan
