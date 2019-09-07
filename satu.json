@@ -1,0 +1,47 @@
+{
+    "name" : "Osama",
+    "age" : 17,
+    "address" : "Kp. Campuraksanta Rt.01 Rw. 07 Kel. Pagerbatu, Pandeglang Banten $2215",
+    "hobbies" : ["Traveling", "Coding"],
+    "is_merried" : false,
+    "list_school" : [
+    	{
+    		"key_name" : "SMK",
+    		"year_in" : 2016,
+    		"year_out" : 2019,
+    		"major" : "Rekayasa Perangkat Lunak"
+    	},
+    	{
+    		"key_name" : "SMP",
+    		"year_in" : 2013,
+    		"year_out" : 2016,
+    		"major" : null
+    	},
+    	{
+    		"key_name" : "SD",
+    		"year_in" : 2007,
+    		"year_out" : 2013,
+    		"major" : null
+    	} 
+    ], 
+    "skills" : [
+    	{
+    		"skill_name" : "PHP",
+    		"level" : "Beginner"
+    	},
+    	{
+    		"skill_name" : "HTML",
+    		"level" : "Beginner"
+    	},
+    	{
+    		"skill_name" : "CSS",
+    		"level" : "Beginner"
+    	},
+    	{
+    		"skill_name" : "Ruby On Rails",
+    		"level" : "Beginner"
+    	}
+    ],
+    "interest_in_coding" : true
+
+};
