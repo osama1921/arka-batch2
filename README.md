@@ -22,4 +22,14 @@
    * contoh untuk menjalan kannya sebagai berikut :
    --------------
    > count_vowels("programmer");
-   
+- Hasil Nomor 6
+   > * Index
+    ![Index](/enam/image/index.png)
+   > * ADD
+   ![ADD](/enam/image/add.png)
+   > * Edit
+   ![Edit](/enam/image/edit.png)
+   > * Delete
+   ![Delete](/enam/image/del.png)
+   > * Alert
+   ![Alert delete](/enam/image/alert.png)
