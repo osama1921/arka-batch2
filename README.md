@@ -17,9 +17,9 @@
   echo "salah";
   }
 - keterangan Nomor 3
- * untuk file ini harus di jalankan di apache server
+  * untuk file ini harus di jalankan di apache server
 - keterangan Nomor 4
- * contoh untuk menjalankan program "
+  * contoh untuk menjalankan program :
   --------------
   groupNumber("993141 -1 1323 14-232");
 - keterangan Nomor 5
