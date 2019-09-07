@@ -6,15 +6,15 @@
   * contoh untuk menjalannkannya sebagai berikut :
   --------------
    > if(is_username_valid('osama')){
-  echo "benar"
+  echo "benar";
   }else{
-  echo "salah"
+  echo "salah";
   }
   
   > if(is_password_valid('codeYourFuture!123')){
-  echo "benar"
+  echo "benar";
   }else{
-  echo "salah"
+  echo "salah";
   }
 - keterangan Nomor 3
  * untuk file ini harus di jalankan di apache server
