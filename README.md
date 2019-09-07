@@ -27,6 +27,11 @@
    --------------
    > count_vowels("programmer");
 - Hasil Nomor 6
+  * Untuk Enam A 
+  Untuk ini silahkan import database dengan naam file 'enam a.sql' di phpmyadmin.
+  Jika ingin menampilkan data sesuai query yang telah ditentukan silahkan buka file 'query.txt' lalu copy paste di sql phpmyadmin sesuai nama database yang dibuat tadi.
+  
+  * Enam B
    > * Index
     ![Index](/enam/image/index.png)
    > * ADD
